@@ -1,33 +1,3 @@
-
-/*
-function fontCheck(desiredFont) {
-	var element = document.createElement('span');
-	element.style.position = 'absolute';
-	element.style.top = -10;
-	element.style.right = -10;
-	element.style.fontFamily = desiredFont;
-	element.innerText = "abcdefghijklmnopqrstuvwxyz";
-	document.body.appendChild(element);
-
-	let computed = window.getComputedStyle(element);
-	let computedFont = computed.getPropertyValue('font-family');
-
-	document.body.removeChild(element);
-
-	if (desiredFont === "") {
-		return true;
-	} else {
-		if ((computedFont.toLowerCase()) !== (desiredFont.toLowerCase())) {
-			console.log("computed font", computedFont)
-			console.log("desired font", desiredFont);
-		}
-
-		return ((computedFont.toLowerCase()) !== (desiredFont.toLowerCase()));
-	}
-};
-*/
-
-
 function mark_missing_fonts_red() {
 	const rcFonts =
 	[
