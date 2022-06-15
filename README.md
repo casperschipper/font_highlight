@@ -14,6 +14,7 @@ It will highlight all fonts which are not provided by RC itself in red and mark 
 
 # How to avoid the problem?
 
+* You can deselect a font in both text and HTML tools by selecting the text and selecting option "Font Family". This is the top option.
 * When copying formatted text, use paste matching style (cmd+shift+v on MacOS or ctrl+shift+v on PC/Linux), so fonts are not copied.
 * Import your word content through the word import (
 * Convert your text to plain text in TextEdit or by pasting it in a plain text editor (notebook).
