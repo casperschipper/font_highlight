@@ -16,7 +16,7 @@ It will highlight all fonts which are not provided by RC itself in red and mark 
 
 * You can deselect a font in both text and HTML tools by selecting the text and selecting option "Font Family". This is the top option.
 * When copying formatted text, use paste matching style (cmd+shift+v on MacOS or ctrl+shift+v on PC/Linux), so fonts are not copied.
-* Import your word content through the word import (
-* Convert your text to plain text in TextEdit or by pasting it in a plain text editor (notebook).
-* Convert simple text tools to HTML tools, click HTML button to inspect if there is any font (sometimes they can be inivisble parts of the text).
+* Import your word content through the word import (https://guide.researchcatalogue.net/#import-word-documents-using-simple-media-upload)
+* Convert your text to plain text in basic text editor like TextEdit (MacOS), Notebook (Windows) or Gedit (Linux).
+* If you are not afraid of seeing a little bit of HTML, Convert simple text tools to HTML tools, click HTML button to inspect the HTML and remove all font-family: UnwantedFontname; statements.)
 
