@@ -45,8 +45,8 @@ function mark_missing_fonts_red() {
 		if (simpleTest(elem)) {
 		}
 		else {
-			elem.style.color = "red";
-			elem.style.backgroundColor = "#ccff00";
+			elem.style.color = "red !important";
+			elem.style.backgroundColor = "#ccff00 !important";
 		}
 	};
 
