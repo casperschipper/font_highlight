@@ -50,7 +50,7 @@ function mark_missing_fonts_red() {
 			let closest = elem.closest('.tool-content');
 			closest.style.borderColor = "ccff00 !important";
 			closest.style.borderStyle = "dashed";
-			slosest.style.borderWidth = "2px";
+			closest.style.borderWidth = "2px";
 		}
 	};
 
