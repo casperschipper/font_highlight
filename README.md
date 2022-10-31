@@ -1,6 +1,6 @@
 # What is this ?
 
-a snippet of javascript to help find fonts in https://researchcatalogue.net expositons.
+A snippet of Javascript to help find fonts in https://researchcatalogue.net expositions.
 
 # How to use
 
